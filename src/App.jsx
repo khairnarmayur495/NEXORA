@@ -230,8 +230,9 @@ ${formData.details}
               <div className="service-icon">↗</div>
               <h3>Website Development</h3>
               <p>
-                Fast, responsive and modern websites
-                built around your business goals.
+                Custom website design and development
+                with responsive layouts, modern design and
+                performance-focused experiences for businesses.
               </p>
               <span className="service-arrow">↗</span>
             </article>
@@ -241,8 +242,9 @@ ${formData.details}
               <div className="service-icon">✳</div>
               <h3>UI / UX Design</h3>
               <p>
-                Clean interfaces and thoughtful experiences
-                that people love to use.
+                User-focused UI/UX design with intuitive
+                layouts, clear navigation and engaging
+                digital experiences across devices.
               </p>
               <span className="service-arrow">↗</span>
             </article>
@@ -252,8 +254,9 @@ ${formData.details}
               <div className="service-icon">◈</div>
               <h3>E-Commerce</h3>
               <p>
-                Digital storefronts designed to showcase
-                products and support online sales.
+                Modern e-commerce website design to showcase
+                products, create smooth shopping experiences
+                and help businesses grow online.
               </p>
               <span className="service-arrow">↗</span>
             </article>
