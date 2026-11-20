@@ -118,9 +118,9 @@ ${formData.details}
             </h1>
 
             <p className="hero-description">
-              We design and develop beautiful websites
-              that help businesses grow, connect and
-              stand out in the digital world.
+              We create modern, responsive websites,
+              business websites and e-commerce experiences
+              that help brands grow and stand out online.
             </p>
 
             <div className="hero-actions">
@@ -202,10 +202,10 @@ ${formData.details}
 
             <div>
               <p>
-                NEXORA is a digital design and development
-                studio helping businesses build a strong
-                online presence through thoughtful design
-                and modern technology.
+                NEXORA is a website design and development studio
+                creating modern business websites, responsive web
+                experiences, UI/UX designs and e-commerce solutions
+                for businesses and brands looking to grow online.
               </p>
               <a href="#contact" className="text-link">
                 LET'S BUILD SOMETHING ↗
